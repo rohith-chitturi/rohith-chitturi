@@ -1,0 +1,76 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1f6feb"/>
+      <stop offset="100%" stop-color="#79c0ff"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f5132"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="420" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <rect x="0" y="0" width="900" height="38" rx="14" fill="#161b22"/>
+  <rect x="0" y="24" width="900" height="14" fill="#161b22"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text x="450" y="24" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b949e" text-anchor="middle">rohith@kernel-space: ~/systems — top -o %CPU</text>
+
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="14">
+    <text x="30" y="66" fill="#8b949e">PID   PROCESS                         %CPU   STATE</text>
+    <line x1="30" y1="76" x2="870" y2="76" stroke="#30363d" stroke-width="1"/>
+  </g>
+
+  <!-- rows: label, pid, pct, y, color -->
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="14">
+
+    <text x="30" y="104" fill="#e6edf3">1001  java_backend_systems</text>
+    <text x="612" y="104" fill="#e6edf3" text-anchor="end">96%</text>
+    <text x="700" y="104" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="112" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="112" width="787" height="10" rx="5" fill="url(#bar2)"/>
+
+    <text x="30" y="150" fill="#e6edf3">1002  distributed_systems_kafka_redis</text>
+    <text x="612" y="150" fill="#e6edf3" text-anchor="end">90%</text>
+    <text x="700" y="150" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="158" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="158" width="738" height="10" rx="5" fill="url(#bar1)"/>
+
+    <text x="30" y="196" fill="#e6edf3">1003  ai_agents_rag_llm</text>
+    <text x="612" y="196" fill="#e6edf3" text-anchor="end">88%</text>
+    <text x="700" y="196" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="204" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="204" width="722" height="10" rx="5" fill="url(#bar2)"/>
+
+    <text x="30" y="242" fill="#e6edf3">1004  python_ml_pipelines</text>
+    <text x="612" y="242" fill="#e6edf3" text-anchor="end">84%</text>
+    <text x="700" y="242" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="250" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="250" width="689" height="10" rx="5" fill="url(#bar1)"/>
+
+    <text x="30" y="288" fill="#e6edf3">1005  typescript_fullstack</text>
+    <text x="612" y="288" fill="#e6edf3" text-anchor="end">78%</text>
+    <text x="700" y="288" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="296" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="296" width="640" height="10" rx="5" fill="url(#bar2)"/>
+
+    <text x="30" y="334" fill="#e6edf3">1006  neo4j_graph_analytics</text>
+    <text x="612" y="334" fill="#e6edf3" text-anchor="end">72%</text>
+    <text x="700" y="334" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="342" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="342" width="591" height="10" rx="5" fill="url(#bar1)"/>
+
+    <text x="30" y="380" fill="#e6edf3">1007  os_internals_scheduling</text>
+    <text x="612" y="380" fill="#e6edf3" text-anchor="end">81%</text>
+    <text x="700" y="380" fill="#3fb950">RUNNING</text>
+    <rect x="30" y="388" width="820" height="10" rx="5" fill="#21262d"/>
+    <rect x="30" y="388" width="664" height="10" rx="5" fill="url(#bar2)"/>
+  </g>
+</svg>

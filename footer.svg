@@ -1,0 +1,36 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <rect x="0" y="0" width="900" height="38" rx="14" fill="#161b22"/>
+  <rect x="0" y="24" width="900" height="14" fill="#161b22"/>
+  <circle cx="24" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="19" r="6" fill="#27c93f"/>
+  <text x="450" y="24" font-family="SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b949e" text-anchor="middle">rohith@kernel-space: ~/systems — netstat --endpoints</text>
+
+  <g font-family="SFMono-Regular, Consolas, monospace" font-size="15">
+    <text x="30" y="70" fill="#e6edf3" font-weight="bold">$ connect --list-endpoints</text>
+
+    <text x="30" y="102" fill="#3fb950">[OPEN]</text>
+    <text x="105" y="102" fill="#79c0ff">github.com/rohith-chitturi</text>
+
+    <text x="30" y="128" fill="#3fb950">[OPEN]</text>
+    <text x="105" y="128" fill="#79c0ff">linkedin.com/in/rohithchitturi-</text>
+
+    <text x="30" y="154" fill="#3fb950">[OPEN]</text>
+    <text x="105" y="154" fill="#79c0ff">rohithforge.vercel.app</text>
+
+    <text x="30" y="180" fill="#3fb950">[OPEN]</text>
+    <text x="105" y="180" fill="#79c0ff">chitturinagarajatejarohith@gmail.com</text>
+
+    <text x="30" y="222" fill="#e6edf3" font-weight="bold">$ shutdown -r "thanks for stopping by"</text>
+    <text x="30" y="246" fill="#ffa657">&gt; system will restart on your next visit ✦</text>
+  </g>
+</svg>
