@@ -121,12 +121,12 @@ Enjoy solving real-world engineering problems through production-grade software.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=GitHub%20Analytics&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="GitHub Analytics" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-chitturi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=A855F7&text_color=F8FAFC" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-chitturi&theme=tokyonight&hide_border=true&background=09090B&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-chitturi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=09090B&amp;title_color=8B5CF6&amp;icon_color=A855F7&amp;text_color=F8FAFC" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-chitturi&amp;hide_border=true&amp;background=09090B&amp;stroke=8B5CF6&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-chitturi&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=8B5CF6&text_color=F8FAFC" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-chitturi&amp;layout=compact&amp;hide_border=true&amp;bg_color=09090B&amp;title_color=8B5CF6&amp;text_color=F8FAFC" alt="Top Languages" />
 </div>
 
 ---
@@ -135,7 +135,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Achievements&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Achievements" />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohith-chitturi&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohith-chitturi&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
