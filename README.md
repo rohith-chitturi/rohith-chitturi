@@ -121,7 +121,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&amp;weight=700&amp;size=26&amp;color=A855F7&amp;vCenter=true&amp;width=500&amp;lines=GitHub+Analytics&amp;repeat=false" alt="GitHub Analytics" />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohith-chitturi&amp;show_icons=true&amp;hide_border=true&amp;bg_color=09090B&amp;title_color=8B5CF6&amp;icon_color=A855F7&amp;text_color=F8FAFC" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohith-chitturi&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;bg_color=09090B&amp;title_color=8B5CF6&amp;icon_color=A855F7&amp;text_color=F8FAFC" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-chitturi&amp;hide_border=true&amp;background=09090B&amp;stroke=8B5CF6&amp;ring=A855F7&amp;fire=A855F7&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=A1A1AA&amp;sideLabels=A1A1AA&amp;dates=A1A1AA" alt="GitHub Streak" />
 </div>
 <br>
