@@ -1,7 +1,7 @@
 <!-- HEADER / HERO SECTION -->
 <div align="center">
-  <h1>CHITTURI NAGA RAJA TEJA ROHITH</h1>
-  <p><b>Information Technology Student | AI Systems Builder | Backend Engineer</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=09090B,8B5CF6,111114&height=250&section=header&text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&fontSize=36&fontAlignY=35&fontColor=F8FAFC&desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&descSize=15&descAlignY=55&descColor=A855F7" width="100%" alt="Header Banner" />
+  <br>
   <p>
     <a href="https://readme-typing-svg.herokuapp.com">
       <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+intelligent+software+systems.;Backend+%26+Distributed+Systems+Engineer.;Retrieval-Augmented+Generation+(RAG).;AI+for+Finance+%26+Healthcare." alt="Typing SVG" />
@@ -14,7 +14,7 @@
     <a href="https://github.com/rohith-chitturi"><img src="https://img.shields.io/badge/GitHub-%2309090B.svg?style=for-the-badge&logo=github&logoColor=A855F7&borderColor=8B5CF6" alt="GitHub"></a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=rohith-chitturi&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-500+-8B5CF6?style=flat-square&logo=github" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/rohith-chitturi?label=Followers&style=flat-square&color=8B5CF6" alt="Followers" />
     <img src="https://img.shields.io/github/stars/rohith-chitturi?style=flat-square&color=8B5CF6" alt="Stars" />
   </p>
@@ -155,5 +155,5 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- FOOTER -->
 <div align="center">
-  <i>"Building intelligent systems that solve real-world problems."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111114,8B5CF6,09090B&height=150&section=footer&text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&fontSize=22&fontColor=F8FAFC" width="100%" alt="Footer Banner" />
 </div>
