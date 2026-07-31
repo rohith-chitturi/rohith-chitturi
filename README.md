@@ -1,6 +1,6 @@
 <!-- HEADER / HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=09090B,8B5CF6,111114&height=250&section=header&text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&fontSize=36&fontAlignY=35&fontColor=F8FAFC&desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&descSize=15&descAlignY=55&descColor=A855F7" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=09090B,5D3387,111114&height=250&section=header&text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&fontSize=36&fontAlignY=35&fontColor=F8FAFC&desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&descSize=15&descAlignY=55&descColor=C084FC" width="100%" alt="Header Banner" />
   <br>
   <p>
     <a href="https://readme-typing-svg.herokuapp.com">
@@ -23,7 +23,7 @@
 ---
 
 <!-- ABOUT ME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=About%20Me&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="About Me" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=About%20Me&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="About Me" />
 
 Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in building intelligent software systems.
 
@@ -34,7 +34,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- CURRENT FOCUS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=Current%20Focus&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Current Focus" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Current%20Focus&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Current Focus" />
 
 <p>
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-%23111114.svg?style=flat-square&color=8B5CF6" alt="RAG" />
@@ -49,14 +49,14 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- FEATURED PROJECTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=Featured%20Projects&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Featured Projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Featured%20Projects&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Featured Projects" />
 
 <table width="100%" border="0" cellpadding="10"><tr><td width="50%" valign="top"><h3>🏦 AI Financial Crime Investigation Platform</h3><p>Enterprise AI platform for fraud detection, graph intelligence, AML analysis and explainable risk scoring.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p></td><td width="50%" valign="top"><h3>🏥 MediAgent AI</h3><p>Multi-agent hospital operations platform for intelligent triage, doctor assignment, bed allocation and workflow orchestration.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Redis</code> <code>Socket.IO</code> <code>PostgreSQL</code> <code>Docker</code></p></td></tr><tr><td width="50%" valign="top"><h3>🎯 InterviewAce</h3><p>AI interview preparation platform featuring resume-aware interviews, voice interaction, performance analytics and personalized feedback.</p><p><code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>SQLite</code> <code>Vapi</code> <code>TailwindCSS</code></p></td><td width="50%" valign="top"><h3>🧠 Second Brain AI</h3><p>AI-powered personal knowledge management platform supporting semantic search, Retrieval-Augmented Generation and contextual retrieval.</p><p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Gemini API</code> <code>TailwindCSS</code></p></td></tr></table>
 
 ---
 
 <!-- TECHNICAL EXPERTISE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=Technical%20Expertise&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Technical Expertise" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Technical%20Expertise&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Technical Expertise" />
 
 ### Languages
 <p>
@@ -118,7 +118,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- GITHUB ANALYTICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=GitHub%20Analytics&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="GitHub Analytics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=GitHub%20Analytics&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="GitHub Analytics" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohith-chitturi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=8B5CF6&icon_color=A855F7&text_color=F8FAFC" alt="GitHub Stats" />
@@ -132,7 +132,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- ACHIEVEMENTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=Achievements&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Achievements" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Achievements&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Achievements" />
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rohith-chitturi&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -141,7 +141,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- CONNECT -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,8B5CF6&height=60&text=Connect&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Connect" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=09090B,5D3387&height=60&text=Connect&fontSize=24&fontColor=F8FAFC&fontAlignY=60" alt="Connect" />
 
 <p align="center">
   <a href="https://rohithforge.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%2309090B.svg?style=for-the-badge&logo=vercel&logoColor=A855F7&borderColor=8B5CF6" alt="Portfolio"></a>
@@ -155,5 +155,5 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111114,8B5CF6,09090B&height=150&section=footer&text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&fontSize=22&fontColor=F8FAFC" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111114,5D3387,09090B&height=150&section=footer&text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&fontSize=22&fontColor=F8FAFC" width="100%" alt="Footer Banner" />
 </div>
