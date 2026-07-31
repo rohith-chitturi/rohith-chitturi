@@ -1,6 +1,9 @@
 <!-- HEADER / HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=09090B,5D3387,111114&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=F8FAFC&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=C084FC&amp;animation=twinkling" width="100%" alt="Header Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=09090B&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=2B2F36&amp;animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=F8FAFC&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=C084FC&amp;animation=twinkling" width="100%" alt="Header Banner" />
+  </picture>
   <br>
   <p>
     <a href="https://readme-typing-svg.herokuapp.com">
@@ -155,5 +158,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=111114,5D3387&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=F8FAFC&amp;animation=twinkling" width="100%" alt="Footer Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=09090B&amp;animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=F8FAFC&amp;animation=twinkling" width="100%" alt="Footer Banner" />
+  </picture>
 </div>
