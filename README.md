@@ -1,9 +1,6 @@
 <!-- HEADER / HERO SECTION -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=09090B&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=2B2F36&amp;animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=F8FAFC&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=C084FC&amp;animation=twinkling" width="100%" alt="Header Banner" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=250&amp;section=header&amp;text=CHITTURI%20NAGA%20RAJA%20TEJA%20ROHITH&amp;fontSize=36&amp;fontAlignY=35&amp;fontColor=F8FAFC&amp;desc=Information%20Technology%20Student%20%7C%20AI%20Systems%20Builder%20%7C%20Backend%20Engineer&amp;descSize=15&amp;descAlignY=55&amp;descColor=C084FC&amp;animation=twinkling" width="100%" alt="Header Banner" />
   <br>
   <p>
     <a href="https://readme-typing-svg.herokuapp.com">
@@ -26,10 +23,7 @@
 ---
 
 <!-- ABOUT ME -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="About Me" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="About Me" />
 
 Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in building intelligent software systems.
 
@@ -40,10 +34,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- CURRENT FOCUS -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Current Focus" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="Current Focus" />
 
 <p>
   <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation-%23111114.svg?style=flat-square&color=8B5CF6" alt="RAG" />
@@ -58,20 +49,14 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- FEATURED PROJECTS -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Featured Projects" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="Featured Projects" />
 
 <table width="100%" border="0" cellpadding="10"><tr><td width="50%" valign="top"><h3>🏦 AI Financial Crime Investigation Platform</h3><p>Enterprise AI platform for fraud detection, graph intelligence, AML analysis and explainable risk scoring.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p></td><td width="50%" valign="top"><h3>🏥 MediAgent AI</h3><p>Multi-agent hospital operations platform for intelligent triage, doctor assignment, bed allocation and workflow orchestration.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Redis</code> <code>Socket.IO</code> <code>PostgreSQL</code> <code>Docker</code></p></td></tr><tr><td width="50%" valign="top"><h3>🎯 InterviewAce</h3><p>AI interview preparation platform featuring resume-aware interviews, voice interaction, performance analytics and personalized feedback.</p><p><code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>SQLite</code> <code>Vapi</code> <code>TailwindCSS</code></p></td><td width="50%" valign="top"><h3>🧠 Second Brain AI</h3><p>AI-powered personal knowledge management platform supporting semantic search, Retrieval-Augmented Generation and contextual retrieval.</p><p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Gemini API</code> <code>TailwindCSS</code></p></td></tr></table>
 
 ---
 
 <!-- TECHNICAL EXPERTISE -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Technical Expertise" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="Technical Expertise" />
 
 ### Languages
 <p>
@@ -133,10 +118,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- GITHUB ANALYTICS -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="GitHub Analytics" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="GitHub Analytics" />
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rohith-chitturi&amp;show_icons=true&amp;hide=contribs&amp;hide_border=true&amp;bg_color=09090B&amp;title_color=8B5CF6&amp;icon_color=A855F7&amp;text_color=F8FAFC" alt="GitHub Stats" />
@@ -150,10 +132,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- ACHIEVEMENTS -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Achievements" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="Achievements" />
 
 <div align="center">
   <img src="https://github-profile-trophy-one.vercel.app/?username=rohith-chitturi&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="GitHub Trophies" />
@@ -162,10 +141,7 @@ Enjoy solving real-world engineering problems through production-grade software.
 ---
 
 <!-- CONNECT -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Connect" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=40&amp;animation=twinkling" alt="Connect" />
 
 <p align="center">
   <a href="https://rohithforge.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%2309090B.svg?style=for-the-badge&logo=vercel&logoColor=A855F7&borderColor=8B5CF6" alt="Portfolio"></a>
@@ -179,8 +155,5 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- FOOTER -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=09090B&amp;animation=twinkling">
-    <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=F8FAFC&amp;animation=twinkling" width="100%" alt="Footer Banner" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=5D3387&amp;height=150&amp;section=footer&amp;text=Building%20intelligent%20systems%20that%20solve%20real-world%20problems.&amp;fontSize=22&amp;fontColor=F8FAFC&amp;animation=twinkling" width="100%" alt="Footer Banner" />
 </div>
