@@ -27,8 +27,8 @@
 
 <!-- ABOUT ME -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="About Me" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=About%20Me&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="About Me" />
 </picture>
 
 Information Technology student at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in building intelligent software systems.
@@ -41,8 +41,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- CURRENT FOCUS -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="Current Focus" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Current%20Focus&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Current Focus" />
 </picture>
 
 <p>
@@ -59,8 +59,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- FEATURED PROJECTS -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="Featured Projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Featured%20Projects&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Featured Projects" />
 </picture>
 
 <table width="100%" border="0" cellpadding="10"><tr><td width="50%" valign="top"><h3>🏦 AI Financial Crime Investigation Platform</h3><p>Enterprise AI platform for fraud detection, graph intelligence, AML analysis and explainable risk scoring.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Neo4j</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p></td><td width="50%" valign="top"><h3>🏥 MediAgent AI</h3><p>Multi-agent hospital operations platform for intelligent triage, doctor assignment, bed allocation and workflow orchestration.</p><p><code>FastAPI</code> <code>LangGraph</code> <code>Redis</code> <code>Socket.IO</code> <code>PostgreSQL</code> <code>Docker</code></p></td></tr><tr><td width="50%" valign="top"><h3>🎯 InterviewAce</h3><p>AI interview preparation platform featuring resume-aware interviews, voice interaction, performance analytics and personalized feedback.</p><p><code>Next.js</code> <code>FastAPI</code> <code>LangChain</code> <code>SQLite</code> <code>Vapi</code> <code>TailwindCSS</code></p></td><td width="50%" valign="top"><h3>🧠 Second Brain AI</h3><p>AI-powered personal knowledge management platform supporting semantic search, Retrieval-Augmented Generation and contextual retrieval.</p><p><code>Next.js</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Gemini API</code> <code>TailwindCSS</code></p></td></tr></table>
@@ -69,8 +69,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- TECHNICAL EXPERTISE -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="Technical Expertise" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Technical%20Expertise&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Technical Expertise" />
 </picture>
 
 ### Languages
@@ -134,8 +134,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- GITHUB ANALYTICS -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="GitHub Analytics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=GitHub%20Analytics&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="GitHub Analytics" />
 </picture>
 
 <div align="center">
@@ -151,8 +151,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- ACHIEVEMENTS -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="Achievements" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Achievements&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Achievements" />
 </picture>
 
 <div align="center">
@@ -163,8 +163,8 @@ Enjoy solving real-world engineering problems through production-grade software.
 
 <!-- CONNECT -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=E9D5FF&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=09090B&amp;animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=5D3387&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=F8FAFC&amp;animation=twinkling" alt="Connect" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=E9D5FF&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=09090B&amp;fontAlignY=60&amp;animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=5D3387&amp;height=60&amp;text=Connect&amp;fontSize=24&amp;fontColor=F8FAFC&amp;fontAlignY=60&amp;animation=twinkling" alt="Connect" />
 </picture>
 
 <p align="center">
